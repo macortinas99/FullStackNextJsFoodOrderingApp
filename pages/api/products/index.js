@@ -27,4 +27,11 @@ export default async function handler(req, res) {
       res.status(500).json(err)
     }
   }
+  // if (method === 'PUT') {
+  //   try {
+  //     res.status(200).json('put method')
+  //   } catch (err) {
+  //     res.status(500).json(err)
+  //   }
+  // }
 }
