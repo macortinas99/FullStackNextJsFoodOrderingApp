@@ -1,4 +1,4 @@
-### Welcome to my Full Stack Food Ordering app.
+# Welcome to my Full Stack Food Ordering app.
 The tech stack used for this project include React/Next.js, Mongo DB, Redux, and cloudinary for the image hosting service. 
 
 ## Brief Description of project
