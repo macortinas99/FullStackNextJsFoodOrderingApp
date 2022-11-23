@@ -28,3 +28,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 -Admin page allows CRUD abilities, a special token is assigned to the cookies of the admin and this is how the website determines who to give admin abilities to.
 -Customer can view status of their order in live time.
 -Customer can choose multiple add ons for their pizza.
+
+![pizzaApp1](https://user-images.githubusercontent.com/58274004/203635928-e4b448e5-6eff-429f-9658-d98934b11be0.PNG)
+![pizzaApp2](https://user-images.githubusercontent.com/58274004/203635940-82dd1313-91a5-4767-a5cd-8722268e6486.PNG)
+![pizzaApp3](https://user-images.githubusercontent.com/58274004/203635948-e0820610-60f4-40bd-8200-a8d4301126e5.PNG)
+![pizzaApp4](https://user-images.githubusercontent.com/58274004/203635958-80b436be-b2e7-41ec-92f4-92c352686f70.PNG)
+![pizzaApp5](https://user-images.githubusercontent.com/58274004/203635986-76293555-9f21-42b1-b2d8-b775bf5272f8.PNG)
+![pizzaApp6](https://user-images.githubusercontent.com/58274004/203635992-f42e1533-a162-479c-879f-e1907cde4a27.PNG)
+![pizzaApp7](https://user-images.githubusercontent.com/58274004/203635997-988d7578-897c-4aac-bf01-d5093ab4c29d.PNG)![pizzaApp8](https://user-images.githubusercontent.com/58274004/203636002-d9aa9ecf-d189-450f-9aff-07a98d9ec86f.PNG)
+
+![pizzaApp9](https://user-images.githubusercontent.com/58274004/203636005-d81069ab-25b6-4ba0-b83b-9a96d5214780.PNG)
