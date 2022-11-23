@@ -17,7 +17,7 @@ export default function Home({ pizzaList, admin }) {
         <meta name='description' content='Best pizza shop in town' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <Featured />
+      <Featured pizzaList={pizzaList} />
       {<AddButton setClose={setClose} />}
       <PizzaList pizzaList={pizzaList} />
       {!close && <Add setClose={setClose} />}
