@@ -22,12 +22,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Features included in this project
-*REST API calls built within Next.js to retrieve and send data to Mongo DB. Calls include GET, POST, PUT, and DELETE.
-*Redux state management library. Redux was used to keep track of the state of the users cart including quanity, products, total price, etc.
-*Mongo DB is the database where the Products and Orders are located.
-*Admin page allows CRUD abilities, a special token is assigned to the cookies of the admin and this is how the website determines who to give admin abilities to.
-*Customer can view status of their order in live time.
-*Customer can choose multiple add ons for their pizza.
+* REST API calls built within Next.js to retrieve and send data to Mongo DB. Calls include GET, POST, PUT, and DELETE.
+* Redux state management library. Redux was used to keep track of the state of the users cart including quanity, products, total price, etc.
+* Mongo DB is the database where the Products and Orders are located.
+* Admin page allows CRUD abilities, a special token is assigned to the cookies of the admin and this is how the website determines who to give admin abilities to.
+* Customer can view status of their order in live time.
+* Customer can choose multiple add ons for their pizza.
 
 ![pizzaApp1](https://user-images.githubusercontent.com/58274004/203635928-e4b448e5-6eff-429f-9658-d98934b11be0.PNG)
 ![pizzaApp2](https://user-images.githubusercontent.com/58274004/203635940-82dd1313-91a5-4767-a5cd-8722268e6486.PNG)
